@@ -23,7 +23,7 @@ Special thanks to important project contributors:
 
 License
 -------------
-Copyright (c) 2013 Kevin Chen.
+Copyright (c) 2012 Visionary Games.
 
 
 _______________
