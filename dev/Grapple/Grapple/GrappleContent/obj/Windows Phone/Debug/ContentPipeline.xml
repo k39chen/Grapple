@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\alien1.png</Source>
+      <Name>images\alien1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\alien1.xnb</Output>
+      <Time>2011-10-01T00:11:48.270182-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\background.png</Source>
+      <Name>images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\background.xnb</Output>
+      <Time>2011-10-01T00:11:48.285782-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\badguy_blue.png</Source>
+      <Name>images\badguy_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\badguy_blue.xnb</Output>
+      <Time>2011-10-01T00:11:48.285782-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\badguy_green.png</Source>
+      <Name>images\badguy_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\badguy_green.xnb</Output>
+      <Time>2011-10-01T00:11:48.285782-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\badguy_orange.png</Source>
+      <Name>images\badguy_orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\badguy_orange.xnb</Output>
+      <Time>2011-10-01T00:11:48.3013821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\badguy_red.png</Source>
+      <Name>images\badguy_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\badguy_red.xnb</Output>
+      <Time>2011-10-01T00:11:48.3013821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\bullet.png</Source>
+      <Name>images\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\bullet.xnb</Output>
+      <Time>2011-10-01T00:11:48.3169821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\cloud1.png</Source>
+      <Name>images\cloud1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\cloud1.xnb</Output>
+      <Time>2011-10-01T00:11:48.3169821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\cloud2.png</Source>
+      <Name>images\cloud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\cloud2.xnb</Output>
+      <Time>2011-10-01T00:11:48.3169821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\fire.png</Source>
+      <Name>images\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\fire.xnb</Output>
+      <Time>2011-10-01T00:11:48.3325821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\ground.png</Source>
+      <Name>images\ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\ground.xnb</Output>
+      <Time>2011-10-01T00:11:48.3325821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\hills.png</Source>
+      <Name>images\hills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\hills.xnb</Output>
+      <Time>2011-10-01T00:11:48.3481821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\laser.png</Source>
+      <Name>images\laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\laser.xnb</Output>
+      <Time>2011-10-01T00:11:48.3481821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\moon.png</Source>
+      <Name>images\moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\moon.xnb</Output>
+      <Time>2011-10-01T00:11:48.3481821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\mountains_blurred.png</Source>
+      <Name>images\mountains_blurred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\mountains_blurred.xnb</Output>
+      <Time>2011-10-01T00:11:48.3637822-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\smoke.png</Source>
+      <Name>images\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\smoke.xnb</Output>
+      <Time>2011-10-01T00:11:48.3637822-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\sun.png</Source>
+      <Name>images\sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\sun.xnb</Output>
+      <Time>2011-10-01T00:11:48.3637822-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tank.png</Source>
+      <Name>images\tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\tank.xnb</Output>
+      <Time>2011-10-01T00:11:48.3793822-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tank_tire.png</Source>
+      <Name>images\tank_tire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\tank_tire.xnb</Output>
+      <Time>2011-10-01T00:11:48.3793822-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\tank_top.png</Source>
+      <Name>images\tank_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\tank_top.xnb</Output>
+      <Time>2011-10-01T00:11:48.3949822-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\title.png</Source>
+      <Name>images\title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\title.xnb</Output>
+      <Time>2011-10-01T00:11:48.4729824-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\player.png</Source>
+      <Name>images\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\player.xnb</Output>
+      <Time>2011-10-01T02:14:54.1655911-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\enemy.png</Source>
+      <Name>images\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\enemy.xnb</Output>
+      <Time>2011-10-01T03:17:48.3585156-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backdrop.png</Source>
+      <Name>images\backdrop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\images\backdrop.xnb</Output>
+      <Time>2011-10-01T03:39:37-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Alien_Hit.wav</Source>
+      <Name>sounds\Alien_Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\sounds\Alien_Hit.xnb</Output>
+      <Time>2011-10-01T00:11:48.5509825-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Player_Hit.wav</Source>
+      <Name>sounds\Player_Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\sounds\Player_Hit.xnb</Output>
+      <Time>2011-10-01T00:11:48.5509825-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Tank_Fire.wav</Source>
+      <Name>sounds\Tank_Fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\sounds\Tank_Fire.xnb</Output>
+      <Time>2011-10-01T00:11:48.5665825-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\gamefont.spritefont</Source>
+      <Name>fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\fonts\gamefont.xnb</Output>
+      <Time>2011-10-01T00:11:48.4885824-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\menufont.spritefont</Source>
+      <Name>fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\fonts\menufont.xnb</Output>
+      <Time>2011-10-01T00:11:48.4885824-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\ScoreFont.spritefont</Source>
+      <Name>fonts\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\fonts\ScoreFont.xnb</Output>
+      <Time>2011-10-01T00:11:48.5041824-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\TitleFont.spritefont</Source>
+      <Name>fonts\TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\fonts\TitleFont.xnb</Output>
+      <Time>2011-10-01T00:11:48.5041824-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\GrappleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\GrappleContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\KevinChen\Documents\My Dropbox\Headlight Fluids\Grapple\Grapple\Grapple\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-07T13:42:41.8701745-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
