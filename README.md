@@ -9,9 +9,9 @@ Later revised as a Java game applet, powered by Pulpcore.
 Demo videos of Grapple in production are available at `/demos`.
 
 Special thanks to important project contributors:
-+ Kevin Chen <Game Programmer>
-+ Swarnava (Neel) Banerjee <Game Designer>
-+ Samuel Cheung <Game Artist/Animator>
++ Kevin Chen - *Game Programmer*
++ Swarnava (Neel) Banerjee - *Game Designer*
++ Samuel Cheung - *Game Artist/Animator*
 
 _______________
 **This project is no longer being developed or supported.**
